@@ -11,7 +11,7 @@
 === New features
 
 * New <<prebuilt-rules, prebuilt detection rules>>.
-* <<detections-ui-exceptions, Exceptions>> can be assigned to to threshold and {ml} rules.
+* <<detections-ui-exceptions, Exceptions>> can be assigned to threshold and {ml} rules.
 * Enhanced UI to <<manage-exceptions, view and manage exceptions>>.
 * Add MITRE ATT&CK sub-techniques in <<rule-ui-advanced-params, advanced rule settings>>.
 * New <<rule-notifications, rule actions>> and enhanced <<rule-action-variables, alert notifications>>.
